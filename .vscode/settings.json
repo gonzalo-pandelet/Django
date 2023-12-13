@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4a1e32aa-6214-433a-b637-72d367efdbe1/resourceGroups/ViajesEspaciales/providers/Microsoft.Web/sites/ViajesEspaciales",
+    "appService.deploySubpath": "."
+}
